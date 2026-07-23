@@ -1,0 +1,4 @@
+requests
+reportlab
+flask
+pyOpenSSL
